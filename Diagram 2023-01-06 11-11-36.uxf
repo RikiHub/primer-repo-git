@@ -1,0 +1,12 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>120</x><y>80</y><w>230</w><h>190</h></coordinates><panel_attributes>CuentaBancaria
+--
+-CBU: String
+-alias: String
+-saldo: double
+-moneda: String
+-tipo: String
+--
++CuentaBancaria(Stirng, String, String)
+-generarCBU(): String
++mostrarDatos(): void
++setAlias(String): void</panel_attributes><additional_attributes></additional_attributes></element></diagram>
